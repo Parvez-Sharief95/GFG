@@ -1,0 +1,18 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/check-the-status/1?page=1&category=python&difficulty=Basic,Easy&sortBy=submissions">Check the status - Python</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="user-select: auto;"><p style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;">Given two integer variables <strong style="user-select: auto;">a</strong> and <strong style="user-select: auto;">b</strong>, and a boolean variable&nbsp;<strong style="user-select: auto;">flag</strong>. The task is to check the status and return accordingly.</span></p>
+<p style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;">Return&nbsp;<strong style="user-select: auto;">True&nbsp;</strong>for the following cases:</span></p>
+<ul style="user-select: auto;">
+<li style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;">Either&nbsp;<strong style="user-select: auto;">a</strong>&nbsp;or&nbsp;<strong style="user-select: auto;">b</strong> (not both) is non-negative and the <strong style="user-select: auto;">flag</strong>&nbsp;is false.<br style="user-select: auto;"></span></li>
+<li style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;">Both&nbsp;<strong style="user-select: auto;">a</strong>&nbsp;and&nbsp;<strong style="user-select: auto;">b</strong> are negative and the&nbsp;<strong style="user-select: auto;">flag</strong>&nbsp;is true.</span></li>
+</ul>
+<p style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;">Otherwise, return <strong style="user-select: auto;">False</strong>.</span></p>
+<p style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Examples:</strong><strong style="user-select: auto;">&nbsp;</strong></span></p>
+<pre style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Input: </strong>a = 1, b = -1, flag = False
+<strong style="user-select: auto;">Output: </strong>True
+<strong style="user-select: auto;">Explanation: </strong>Since a is positive, b is negative, and flag is False, condition 1 holds true, so the function returns True.</span></pre>
+<pre style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Input: </strong>a = -182, b = -9121, flag = True
+<strong style="user-select: auto;">Output: </strong>True
+<strong style="user-select: auto;">Explanation: </strong>Since both a and b are negative and flag is True, condition 2 holds true, so the function returns True.</span></pre>
+<pre style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Input: </strong>a = 5, b = 3, flag = True
+<strong style="user-select: auto;">Output: </strong>False
+<strong style="user-select: auto;">Explanation: </strong>Neither condition 1 nor condition 2 holds, so the function returns False.</span></pre>
+<p style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Constraints:</strong><br style="user-select: auto;">-10 &lt;= a, b &lt;= 10<br style="user-select: auto;">flag<sup style="user-select: auto;">&nbsp;</sup>∈ {True, False}&nbsp;</span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>python-conditionals</code>&nbsp;<code>python</code>&nbsp;
