@@ -1,0 +1,14 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/the-fizzbuzz-program/1?page=1&category=python&difficulty=Basic,Easy&sortBy=submissions">The FizzBuzz Program</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="user-select: auto;"><p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;">You are given a number&nbsp; and you have to print your answer according to the following:<br style="user-select: auto;">If the number is divisible by 3, you print <strong style="user-select: auto;">"Fizz" </strong>(without quotes)<br style="user-select: auto;">If the number is divisible by 5, you print <strong style="user-select: auto;">"Buzz" </strong>(without quotes)<br style="user-select: auto;">If the number is divisible by both 3 and 5, you print <strong style="user-select: auto;">"FizzBuzz" </strong>(without quotes)<br style="user-select: auto;">In any other case, you print the number itself</span></p>
+<p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;">Note: </span><span style="font-size: 18px; user-select: auto;">You should add a&nbsp;<strong style="user-select: auto;">newline</strong>&nbsp;character after print() statement.</span></p>
+<p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Examples:</strong></span></p>
+<pre style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Input</strong></span>: <span style="font-size: 18px; user-select: auto;">number = 3
+<strong style="user-select: auto;">Output:</strong> Fizz
+<strong style="user-select: auto;">Explanation</strong>: Here, the number is divisible by 3, so Fizz is printed.</span></pre>
+<pre style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Input: </strong>number = 5
+<strong style="user-select: auto;">Output: </strong>Buzz
+<strong style="user-select: auto;">Explanation</strong>: Here the number is divisible by 5, so Buzz is printed.</span></pre>
+<pre style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Input: </strong>number = 15
+<strong style="user-select: auto;">Output: </strong>FizzBuzz
+<strong style="user-select: auto;">Explanation</strong>: Here, the number 15 is divisible by both 3 and 5, so FizzBuzz is printed.</span></pre>
+<p style="user-select: auto;"><strong style="user-select: auto;"><span style="font-size: 18px; user-select: auto;">Constraints:</span></strong></p>
+<p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;">1 &lt;= number &lt;= 100</span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>python-conditionals</code>&nbsp;<code>CPP</code>&nbsp;<code>Java</code>&nbsp;<code>python</code>&nbsp;
