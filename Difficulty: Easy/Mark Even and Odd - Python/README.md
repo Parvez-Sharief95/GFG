@@ -1,0 +1,12 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/mark-even-and-odd/1?page=1&category=python&difficulty=Basic,Easy&sortBy=submissions">Mark Even and Odd - Python</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="user-select: auto;"><p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;">Given a positive integer <strong style="user-select: auto;">x</strong>. Your&nbsp;task is to check, if it is <strong style="user-select: auto;">even</strong> or <strong style="user-select: auto;">odd</strong> (Any number that gives&nbsp;zero as remainder when divided by 2 is an even number)</span></p>
+<p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Examples <br style="user-select: auto;"></strong></span></p>
+<pre style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Input: </strong>x = 4
+<strong style="user-select: auto;">Output: </strong>Even</span>
+</pre>
+<pre style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Input: </strong>x = 5
+<strong style="user-select: auto;">Output: </strong>Odd</span>
+</pre>
+<p style="user-select: auto;"><strong style="user-select: auto;"><span style="font-size: 18px; user-select: auto;">Your Task:</span></strong></p>
+<p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;">Your task is to complete the function <strong style="user-select: auto;">checkOddEven</strong>(), which <strong style="user-select: auto;">returns True</strong> (In python, True starts with caps T) if the number is <strong style="user-select: auto;">even</strong>, <strong style="user-select: auto;">else return False</strong> (In Python, False starts with caps F).</span></p>
+<p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Note:</strong> Python functions, just like variables, don't have a datatype keyword preceding the identifier.</span></p>
+<p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Constraints:</strong><br style="user-select: auto;">1 &lt;= x &lt;= 10<sup style="user-select: auto;">6</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>python</code>&nbsp;
