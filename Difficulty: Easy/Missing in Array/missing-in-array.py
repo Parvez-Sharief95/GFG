@@ -1,7 +1,11 @@
 class Solution:
     def missingNum(self, arr):
         # code here
-        n = len(arr) + 1
-        st =int( (n * (n+1)) / 2 )
-        actual_sum = sum(arr)
-        return st - actual_sum
+        n= len(arr)
+        sumof =0
+        tsum =0
+        for i in range(n):
+            sumof = sumof + arr[i]
+        for i in range(1,n+2):
+            tsum = tsum + i
+        return tsum - sumof
